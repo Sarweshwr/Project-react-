@@ -1,0 +1,8 @@
+import React from "react";
+export default function Login(){
+  <form>
+  <b>enter namer:</b><br/>
+  <input id="name" type="text"/><br/>
+  <input type="submit"/>
+  </form>
+}

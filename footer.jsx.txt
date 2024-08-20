@@ -1,0 +1,13 @@
+import React from "react";
+export default function Footer(){
+  return(
+    <>
+    <div style={{backgroundColor:"#1221", position:"relative",top:"100%",height:"20%"}}>
+    contact no.:<br/>
+    1234567890<br/>
+    email:<br/>
+    xyz@gmail.com<br/>
+    </div>
+    </>
+    )
+}

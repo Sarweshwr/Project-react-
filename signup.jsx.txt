@@ -1,0 +1,8 @@
+import React from "react";
+export default function Signup(){
+  <form>
+   <b>enter name:</b><br/>
+   <input type="text" id="name" /><br/>
+   <input type="submit"/>
+  </form>
+}

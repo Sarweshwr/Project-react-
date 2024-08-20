@@ -1,0 +1,16 @@
+import Sidebar from "./sidebar";
+import Minbar from "./mainbar";
+import Header from "./header";
+import Footer from "./footer";
+import React from "react";
+function Home(){
+  return(
+    <>
+    <Header/>
+    <Footer/>
+    <Sidebar/>
+    <Mainbar/>
+    </>
+    )
+}
+export default Home;
