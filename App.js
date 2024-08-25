@@ -13,7 +13,7 @@ class App extends React.Component {
       <>
       <HashRouter>
       <Routes>
-        <Route path="/dist/index.html" element={<Home/>}/>
+        <Route path="/index.html" element={<Home/>}/>
         <Route path="/signup" element={<Signup/>}/>
         <Route path="/login" element={<Login/>}/>
         <Route path="/account" element={<Account/>}/>
